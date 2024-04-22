@@ -1,0 +1,15 @@
+{
+  "id": "oprin-fvtt-module",
+  "title": "My first foundry module - An Example FVTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+      "name": "Atropos"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
